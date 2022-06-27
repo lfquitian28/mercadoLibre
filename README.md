@@ -9,14 +9,33 @@ To run the example project, clone the repo, and run `pod install` from the merca
 
 ## Installation
 
-ProductSearch is available through [CocoaPods](https://cocoapods.org). To install
- is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
 
-```ruby
-pod 'ProductSearch'
-pod 'ProductSearch'
+
+In the following .Gif you can see the installation example of the project working.
+
+The first step : Clone the project with the following code
+
+```git 
+git clone https://github.com/lfquitian28/mercadoLibre.git
 ```
+
+The second step: is to open the project and run the file with extension .xcworkspace
+
+![Alt text](/Resources/ExampleClone/exampleTest.gif "example install")
+
+
+NOTE = if when starting the project the following error is presented
+
+![Alt text](/Resources/Error/errorA "example error")
+
+
+It is suggested to follow the following steps that are presented in the following images and re-execute the project
+
+![Alt text](/Resources/Error/errorB "example error")
+
+![Alt text](/Resources/Error/errorC "example error")
+
+
 
 ## Author
 
