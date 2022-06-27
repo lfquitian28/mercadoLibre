@@ -1,0 +1,22 @@
+{
+  "name": "ProductsSearch",
+  "version": "0.1.0",
+  "summary": "A short description of ProductsSearch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lfquitian8@gmail.com/ProductsSearch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lfquitian8@gmail.com": "ext_lfquitianc@falabella.cl"
+  },
+  "source": {
+    "git": "https://github.com/lfquitian8@gmail.com/ProductsSearch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ProductsSearch/Classes/**/*"
+}
