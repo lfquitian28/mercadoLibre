@@ -26,14 +26,14 @@ The second step: is to open the project and run the file with extension .xcworks
 
 NOTE = if when starting the project the following error is presented
 
-![Alt text](/Resources/Error/errorA "example error")
+![Alt text](/Resources/Error/errorA.png "example error")
 
 
 It is suggested to follow the following steps that are presented in the following images and re-execute the project
 
-![Alt text](/Resources/Error/errorB "example error")
+![Alt text](/Resources/Error/errorB.png "example error")
 
-![Alt text](/Resources/Error/errorC "example error")
+![Alt text](/Resources/Error/errorC.png "example error")
 
 
 
