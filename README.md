@@ -1,9 +1,5 @@
 # Mercado Libre
 
-[![CI Status](https://img.shields.io/travis/Kevin Bolívar/FIFUserValidation.svg?style=flat)](https://travis-ci.org/Kevin Bolívar/FIFUserValidation)
-[![Version](https://img.shields.io/cocoapods/v/FIFUserValidation.svg?style=flat)](https://cocoapods.org/pods/FIFUserValidation)
-[![License](https://img.shields.io/cocoapods/l/FIFUserValidation.svg?style=flat)](https://cocoapods.org/pods/FIFUserValidation)
-[![Platform](https://img.shields.io/cocoapods/p/FIFUserValidation.svg?style=flat)](https://cocoapods.org/pods/FIFUserValidation)
 
 ## Example
 
