@@ -76,6 +76,8 @@ class ProductsListViewController: UIViewController,Alertable {
 
     private func updateItems() {
         productsTableView.reloadData()
+        
+        LoadingView.hide()
     }
 
     private func updateLoading(_ loading: ProductsListViewModelLoading?) {
