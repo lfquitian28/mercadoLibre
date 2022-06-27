@@ -130,11 +130,8 @@ extension ProductDetailViewController: UITableViewDelegate, UITableViewDataSourc
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "CharacteristicTableViewCell") as! CharacteristicTableViewCell
-        if (viewModel.isEmpty) {
-            if viewModel.items.value[0].attributes[indexPath.row] != nil{
-            
+        if (viewModel.isEmpty) && (if indexPath.row < viewModel.items.value[0].attributes.count) {
                 cell.bind(characteristic: viewModel.items.value[0].attributes[indexPath.row])
-            }
         }
         return cell
     }
