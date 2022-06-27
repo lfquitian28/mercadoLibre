@@ -1,0 +1,6 @@
+framework module ProductsSearch {
+  umbrella header "ProductsSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

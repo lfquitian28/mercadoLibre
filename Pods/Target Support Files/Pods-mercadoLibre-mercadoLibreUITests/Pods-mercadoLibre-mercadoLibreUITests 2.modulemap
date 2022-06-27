@@ -1,0 +1,6 @@
+framework module Pods_mercadoLibre_mercadoLibreUITests {
+  umbrella header "Pods-mercadoLibre-mercadoLibreUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

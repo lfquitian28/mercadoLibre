@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-mercadoLibre-mercadoLibreUITests/Pods-mercadoLibre-mercadoLibreUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Networking/Networking.framework
+${BUILT_PRODUCTS_DIR}/ProductsSearch/ProductsSearch.framework
